@@ -1,4 +1,4 @@
-## Restaurant-web-sd
+ji## Restaurant-web-sd
 
 # 🧑🏻‍🍳SpicyDishes – Food Restaurant Website
 
@@ -60,9 +60,7 @@ The application focuses on delivering a smooth user experience with responsive d
 ---
 
 ## 🏗️Project Structure
-
-src/ ├── components/ │    ├── Navbar.jsx │    ├── Hero.jsx │    ├── PopularDishes.jsx │    ├── KeyFeatures.jsx │    ├── Partners.jsx │    ├── Testimonial.jsx │    ├── Contact.jsx │    ├── Footer.jsx │ ├── assets/ │    └── images & icons │ └── App.jsx
-
+<img src="src/assets/structure-1">
 ---
 
 ## ⚙️How to Run
