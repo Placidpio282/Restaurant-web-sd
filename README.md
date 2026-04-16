@@ -11,28 +11,28 @@ The application focuses on delivering a smooth user experience with responsive d
 ## 🧩Components Included
 
 ### Navbar.jsx  
-Responsive navigation bar with mobile menu toggle and smooth scrolling links.
+• Responsive navigation bar with mobile menu toggle and smooth scrolling links.
 
 ### Hero.jsx  
-Landing section with attractive UI, call-to-action buttons, and delivery highlights.
+• Landing section with attractive UI, call-to-action buttons, and delivery highlights.
 
 ### PopularDishes.jsx  
-Displays popular food items in a grid layout with reusable card components.
+• Displays popular food items in a grid layout with reusable card components.
 
 ### KeyFeatures.jsx  
-Showcases main features like fast delivery and seamless ordering experience.
+• Showcases main features like fast delivery and seamless ordering experience.
 
 ### Partners.jsx  
-Displays partner brands with smooth scrolling animation.
+• Displays partner brands with smooth scrolling animation.
 
 ### Testimonial.jsx  
-Customer reviews section with slider functionality using Swiper.js.
+• Customer reviews section with slider functionality using Swiper.js.
 
 ### Contact.jsx  
-Contact section for user interaction (form & details).
+• Contact section for user interaction (form & details).
 
 ### Footer.jsx  
-Footer with links and basic information.
+• Footer with links and basic information.
 
 ---
 
