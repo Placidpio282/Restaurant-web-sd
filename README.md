@@ -1,4 +1,4 @@
-## Restaurant-web-sd
+hi## Restaurant-web-sd
 
 # 🧑🏻‍🍳SpicyDishes – Food Restaurant Website
 
@@ -60,7 +60,9 @@ The application focuses on delivering a smooth user experience with responsive d
 ---
 
 ## 🏗️Project Structure
+
 <img src="src/assets/structure-1">
+
 ---
 
 ## ⚙️How to Run
