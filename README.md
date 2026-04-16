@@ -1,4 +1,4 @@
-hi## Restaurant-web-sd
+## Restaurant-web-sd
 
 # 🧑🏻‍🍳SpicyDishes – Food Restaurant Website
 
